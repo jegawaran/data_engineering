@@ -1,0 +1,9 @@
+{
+	"name": "DFPro-DataFactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6654bb17-16a6-4c52-864d-62d639ebe8a0",
+		"tenantId": "f9a36e17-3320-42bc-8237-5e34e80a8a43"
+	}
+}
