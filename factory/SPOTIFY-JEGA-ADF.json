@@ -1,0 +1,9 @@
+{
+	"name": "SPOTIFY-JEGA-ADF",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e439a0c9-498d-48c0-ae48-622c101c4422",
+		"tenantId": "f9a36e17-3320-42bc-8237-5e34e80a8a43"
+	}
+}
